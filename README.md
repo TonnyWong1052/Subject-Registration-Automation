@@ -3,6 +3,14 @@
 ## Overview
 This Python script automates the process of registering subjects at university. It allows users to enter their login credentials, select subject codes, groups, and components, and then saves this data to a JSON file. The script can be extended or modified for more complex automation tasks.
 
+## Project Structure
+### 1. reg_subject.py
+   - **Functionality**: Automates logging into the university system, selecting subjects, and navigating the registration system.
+   - **Special Features**:
+     - **Alarm Mode**: Allows users to set a specific time for the script to run, automating the process at the scheduled time.
+     - **Testing Version (Mock Subject Registration)**: Simulates the registration process, for testing purposes.
+
+
 ## Features
 - User input for registration subject code, subject group, and target component codes.
 - Saving user credentials and subject information in a JSON file.
