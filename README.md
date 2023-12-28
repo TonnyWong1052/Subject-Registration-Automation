@@ -9,7 +9,7 @@ This Python script automates the process of registering subjects at university. 
 - User-friendly display of saved data.
 
 ## Requirements
-- Python 3.x
+- Python 3.x or above
 - Selenium WebDriver
 - ChromeDriver (or any compatible driver for your browser)
 
