@@ -1,0 +1,24 @@
+{
+    "subject_size": [
+        {
+            "reg_subject_code": "SO2S01",
+            "subject_group": "201",
+            "target_component_codes": [
+                "TUT001",
+                "LAB001",
+                "LEC001"
+            ]
+        },
+        {
+            "reg_subject_code": "ELC1A09",
+            "subject_group": "201",
+            "target_component_codes": [
+                "LEC001",
+                "SEM006"
+            ]
+        }
+    ],
+    "username": "230XXXXD",
+    "password": "Passw0rd",
+    "booking_date": "9:00"
+}
